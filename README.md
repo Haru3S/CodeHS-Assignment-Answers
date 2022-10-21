@@ -1,4 +1,4 @@
-# Javascript Commands for Karel
+# Javascript Answers for Karel 2022
 
 ![coverage](https://img.shields.io/badge/coverage-52%25-orange) ![build](https://img.shields.io/badge/build-passing-brightgreen)
 
