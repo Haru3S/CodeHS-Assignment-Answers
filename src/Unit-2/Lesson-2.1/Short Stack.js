@@ -1,4 +1,0 @@
-move();
-putBall();
-putBall();
-move();
