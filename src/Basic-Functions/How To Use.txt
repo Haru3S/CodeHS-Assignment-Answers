@@ -1,0 +1,16 @@
+The first couple of lessons use this until you get into lesson 2.8
+then you will be using Super Karel that will be able to turn right
+and turn around.
+
+Commands to remove ↓
+
+function turnRight(){
+    turnLeft();
+    turnLeft();
+    turnLeft();
+}
+
+function turnAround(){
+    turnLeft();
+    turnLeft();
+}
