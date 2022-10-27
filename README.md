@@ -1,5 +1,11 @@
 # Javascript Answers for Karel 2022
+![build](https://img.shields.io/badge/build-passing-brightgreen)
 
-![coverage](https://img.shields.io/badge/coverage-52%25-orange) ![build](https://img.shields.io/badge/build-passing-brightgreen)
 
-CodeHS teaches .js in multiple ways and one of those ways is Karel well I made these simple functions easy to copy and paste into your CodeHS project.
+## Unit 2 ![coverageunit2](https://img.shields.io/badge/coverage-100%25-brightgreen)
+
+All of the Unit 2 Files but each class is different but this has all the "Programming With Karel" assignments.
+
+## Unit 3 ![coverageunit3](https://img.shields.io/badge/coverage-0%25-critical)
+
+coming soon...
