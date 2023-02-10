@@ -21,6 +21,7 @@ COMING SOON!
 Javascript Graphics. The use of JS to create simple or complex graphics. To create graphics with RGB, HSL, HEX or BIN such as a rainbow or a black & white ladder. 
 > My class skipped to Unit 5 so there is no in-between. If there is some code you want to add for "Unit 4" create a pull request with your code.
 
+![Example U5](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%209.57.14%20AM.png?raw=true)
 
 ### Unit 6
 
