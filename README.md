@@ -1,21 +1,33 @@
 # CodeHS Javascript Assignment Answers
 ![ver](https://img.shields.io/badge/version-2.2.1-bright=green?style=flat-square)
 
-All assignments for different people are assigned differently this is my layout for each assignment for me.
+> Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
+
+> Most of the code was made by ARedDevv and others were from Reddit. If there is one that gives a syntax error create a pull request with your fix and will be added as a alternate file to `main`.
+
+### Unit 2
+
+JavaScript Karel Movemnts. Learning the first bits of JavaScript to control a little dog called Karel.
+> Some of the later assignments are completed with no syntax errors but if my code gives a syntax error or another kind of error use the pull request to add your code will be added as a alternate file to `main`.
 
 
-## Unit 2
+### Unit 5
 
-All of the Unit 2 Files but each class is different but this has all the "Programming With Karel" assignments.
+Javascript Graphics. The use of JS to create simple or complex graphics. To create graphics with RGB, HSL, HEX or BIN such as a rainbow or a black & white ladder. 
+> My class skipped to Unit 5 so there is no in-between. If there is some code you want to add for "Unit 3 & 4" create a pull request with your code.
 
-## Unit 5
 
-Finished (pain) some of the code is my and others are from reddit.
-
-## Unit 6
+### Unit 6
 
 [CURRENTLY UPDATING] Used GPT-3 to make simple JavaScript drawings/renders the last one is more like a meme(a cat image) since you can problem make something decently unqiue.
 
-## Hour of Python
 
-Finished (easy as pie) The `Give_Some_Var.py` says that one of the var is broken. If your have a fix add a pull request that fixes this problem.
+### Hour of Python
+
+Basics of Python.
+> `Give_Some_Var.py` gives an error line. If you have a fix create a new pull request with your code that will be added to `main`.
+
+### Hour of Java
+
+[CURRENTLY UPDATING] Finished all project files for `Hour of Java`
+> P.S - I think it's 30x easier to learn then JavaScript :)
