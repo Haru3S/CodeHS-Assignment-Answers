@@ -30,10 +30,12 @@ Javascript Graphics. The use of JS to create simple or complex graphics. To crea
 ![Example U6](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.03.26%20AM.png?raw=true)
 
 
-### Hour of Python
+### Hour of Code(Python)
 
 Basics of Python.
 > `Give_Some_Var.py` gives an error line. If you have a fix create a new pull request with your code that will be added to `main`.
+
+![Example HoC](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.12.43%20AM.png?raw=true)
 
 ### Hour of Java
 
