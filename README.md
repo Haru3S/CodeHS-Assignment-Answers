@@ -10,11 +10,14 @@
 JavaScript Karel Movemnts. Learning the first bits of JavaScript to control a little dog called Karel.
 > Some of the later assignments are completed with no syntax errors but if my code gives a syntax error or another kind of error use the pull request to add your code will be added as a alternate file to `main`.
 
+### Unit 3
+
+COMING SOON!
 
 ### Unit 5
 
 Javascript Graphics. The use of JS to create simple or complex graphics. To create graphics with RGB, HSL, HEX or BIN such as a rainbow or a black & white ladder. 
-> My class skipped to Unit 5 so there is no in-between. If there is some code you want to add for "Unit 3 & 4" create a pull request with your code.
+> My class skipped to Unit 5 so there is no in-between. If there is some code you want to add for "Unit 4" create a pull request with your code.
 
 
 ### Unit 6
