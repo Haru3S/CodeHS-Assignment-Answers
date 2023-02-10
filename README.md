@@ -27,6 +27,8 @@ Javascript Graphics. The use of JS to create simple or complex graphics. To crea
 
 [CURRENTLY UPDATING] Used GPT-3 to make simple JavaScript drawings/renders the last one is more like a meme(a cat image) since you can problem make something decently unqiue.
 
+![Example U6](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.03.26%20AM.png?raw=true)
+
 
 ### Hour of Python
 
