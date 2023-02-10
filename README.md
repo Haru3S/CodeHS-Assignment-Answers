@@ -14,7 +14,7 @@ Finished (pain) some of the code is my and others are from reddit.
 
 ## Unit 6
 
-Finished (also pain) one of the code is complete but the others are a joke. Add a pull request if your code fixes this problem.
+[CURRENTLY UPDATING] Used GPT-3 to make simple JavaScript drawings/renders the last one is more like a meme(a cat image) since you can problem make something decently unqiue.
 
 ## Hour of Python
 
