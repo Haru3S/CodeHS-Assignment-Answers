@@ -10,6 +10,8 @@
 JavaScript Karel Movemnts. Learning the first bits of JavaScript to control a little dog called Karel.
 > Some of the later assignments are completed with no syntax errors but if my code gives a syntax error or another kind of error use the pull request to add your code will be added as a alternate file to `main`.
 
+![Example U2](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%209.53.17%20AM.png?raw=true)
+
 ### Unit 3
 
 COMING SOON!
