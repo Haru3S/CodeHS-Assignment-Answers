@@ -39,3 +39,5 @@ Basics of Python.
 
 [CURRENTLY UPDATING] Finished all project files for `Hour of Java`
 > P.S - I think it's 30x easier to learn then JavaScript :)
+
+![Example of HoJ](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.09.29%20AM.png?raw=true)
