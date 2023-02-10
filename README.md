@@ -57,7 +57,7 @@ Sacriface darkmode and use the VSCODE engine there is vs-dark but works on some 
   - Switch your default code engine from `Ace` to `Monaco`
   - (**OPTIONAL**) Switch default editor theme from `Light` to `vs-dark`
 
-You can also use yours truley Code Editor Settings with the image below!
+You can also use yours truely Code Editor Settings with the image below!
 
 ![ARedDevv's Editor](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.38.38%20AM.png?raw=true)
 
