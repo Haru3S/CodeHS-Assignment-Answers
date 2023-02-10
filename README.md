@@ -1,5 +1,5 @@
 # CodeHS Javascript Assignment Answers
-![ver](https://img.shields.io/badge/version-2.2.1-bright=green?style=flat-square)
+![ver](https://img.shields.io/badge/version-2.2.7-bright=green?style=flat-square)
 
 > Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
 
