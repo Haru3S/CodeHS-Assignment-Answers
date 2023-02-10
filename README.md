@@ -1,5 +1,5 @@
 # CodeHS Javascript Assignment Answers
-![ver](https://img.shields.io/badge/version-2.2.8-bright=green?style=flat-square)
+![ver](https://img.shields.io/badge/version-2.2.9-bright=green?style=flat-square)
 
 > Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
 
@@ -43,3 +43,23 @@ Basics of Python.
 > P.S - I think it's 30x easier to learn then JavaScript :)
 
 ![Example of HoJ](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.09.29%20AM.png?raw=true)
+
+### Tips & Tricks
+
+#### Code Editor
+
+To access your setting click on your profile and go into account settings or visit this link. [CodeHS Settings](https://codehs.com/settings?tab=ide)
+
+Did you know your able to switch themes if your using the `Ace` engine the best dark theme is `Monokai`.
+  - Switch default editor theme from `Light` to `Monokia`.
+
+Sacriface darkmode and use the VSCODE engine there is vs-dark but works on some languages (for some reason).
+  - Switch your default code engine from `Ace` to `Monaco`
+  - (**OPTIONAL**) Switch default editor theme from `Light` to `vs-dark`
+
+You can also use yours truley Code Editor Settings with the image below!
+
+![ARedDevv's Editor](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.38.38%20AM.png?raw=true)
+
+Improve your coding experience with ARedDevv's fine toned code editor.
+
