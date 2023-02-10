@@ -1,5 +1,5 @@
 # CodeHS Javascript Assignment Answers
-![ver](https://img.shields.io/badge/version-2.2.7-bright=green?style=flat-square)
+![ver](https://img.shields.io/badge/version-2.2.8-bright=green?style=flat-square)
 
 > Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
 
@@ -39,7 +39,7 @@ Basics of Python.
 
 ### Hour of Java
 
-[CURRENTLY UPDATING] Finished all project files for `Hour of Java`
+[CURRENTLY ADDING] Finished all project files for `Hour of Java`
 > P.S - I think it's 30x easier to learn then JavaScript :)
 
 ![Example of HoJ](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.09.29%20AM.png?raw=true)
