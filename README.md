@@ -63,3 +63,14 @@ You can also use yours truely Code Editor Settings with the image below!
 
 Improve your coding experience with ARedDevv's fine toned code editor.
 
+## FAQ
+
+Q. Is this code made all by you?
+A. No, Most of the code *IS* but some of it is from reddit cause they were to hard to solve.
+
+Q. Why does it say CUDA or Python?
+A. Python is a unit so yeah. CUDA is for JavaScript unit but JS is incompatible with color data but CUDA is compatible with color data like `#FF1C55` or `rgb(255, 28, 85)` but some of it is in Binary since it uses 1's & 0's to render color aka Black and White.
+
+Q. Why the frick do you format them for their coding language?
+A. Cause it makes it cleaner to look through then `.txt` files and also gives a cool sidebar tag on github :D.
+
