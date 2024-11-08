@@ -75,8 +75,8 @@ Improve your coding experience with ARedDevv's fine toned code editor.
 
 ## FAQ
 
-Q. Is this code made all by you?
-A. No, Most of the code *IS* but some of it is from reddit cause they were to hard to solve.
+Q. Are you a furry?
+A. Yes I have a very epic protogen OC but also ironically a cat in some places.
 
 Q. Why does it say CUDA or Python?
 A. Python is a unit so yeah. CUDA is for JavaScript unit but JS is incompatible with color data but CUDA is compatible with color data like `#FF1C55` or `rgb(255, 28, 85)` but some of it is in Binary since it uses 1's & 0's to render color aka Black and White.
