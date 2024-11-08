@@ -1,7 +1,11 @@
 # CodeHS Javascript Assignment Answers
-![ver](https://img.shields.io/badge/version-2.3.4-bright=green?style=flat-square)
+![ver](https://img.shields.io/badge/version-2.3.5-bright=green?style=flat-square)
 
-> Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
+**All of this code was made by a furry! Thas Me!!! XD**
+
+***
+
+> Warning; Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
 
 > Most of the code was made by ARedDevv and others were from Reddit. If there is one that gives a syntax error create a pull request with your fix and will be added as a alternate file to `main`.
 
@@ -14,14 +18,9 @@ JavaScript Karel Movemnts. Learning the first bits of JavaScript to control a li
 
 ![Example U2](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%209.53.17%20AM.png?raw=true)
 
-### Unit 3
-
-COMING SOON!
-
 ### Unit 5
 
 Javascript Graphics. The use of JS to create simple or complex graphics. To create graphics with RGB, HSL, HEX or BIN such as a rainbow or a black & white ladder. 
-> My class skipped to Unit 5 so there is no in-between. If there is some code you want to add for "Unit 4" create a pull request with your code.
 
 ![Example U5](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%209.57.14%20AM.png?raw=true)
 
@@ -30,7 +29,6 @@ Javascript Graphics. The use of JS to create simple or complex graphics. To crea
 [CURRENTLY UPDATING] Used GPT-3 to make simple JavaScript drawings/renders the last one is more like a meme(a cat image) since you can make something decently unqiue.
 
 ![Example U6](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.03.26%20AM.png?raw=true)
-
 
 ***
 ## Hour of X
