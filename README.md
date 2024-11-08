@@ -1,10 +1,12 @@
 # CodeHS Javascript Assignment Answers
-![ver](https://img.shields.io/badge/version-2.2.9-bright=green?style=flat-square)
+![ver](https://img.shields.io/badge/version-2.3.4-bright=green?style=flat-square)
 
 > Warning Your `Units` may not be formated like mine. Use this to complete assignments and get an easy grade for your computer science class.
 
 > Most of the code was made by ARedDevv and others were from Reddit. If there is one that gives a syntax error create a pull request with your fix and will be added as a alternate file to `main`.
 
+***
+## JavaScript
 ### Unit 2
 
 JavaScript Karel Movemnts. Learning the first bits of JavaScript to control a little dog called Karel.
@@ -30,23 +32,28 @@ Javascript Graphics. The use of JS to create simple or complex graphics. To crea
 ![Example U6](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.03.26%20AM.png?raw=true)
 
 
-### Hour of Code(Python)
+***
+## Hour of X
+### Hour of Code (Python)
 
 Basics of Python.
 > `Give_Some_Var.py` gives an error line. If you have a fix create a new pull request with your code that will be added to `main`.
 
 ![Example HoC](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.12.43%20AM.png?raw=true)
 
-### Hour of Java
-
-[CURRENTLY ADDING] Finished all project files for `Hour of Java`
-> P.S - I think it's 30x easier to learn then JavaScript :)
-
 ![Example of HoJ](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.09.29%20AM.png?raw=true)
 
-### Tips & Tricks
+***
 
-#### Code Editor
+## Python
+### Python Control Structures
+> Partially Completed
+All code can be viewed at `src/Python Control Structures`.
+
+***
+## Tips & Tricks
+
+### Code Editor
 
 To access your setting click on your profile and go into account settings or visit this link. [CodeHS Settings](https://codehs.com/settings?tab=ide)
 
@@ -57,11 +64,16 @@ Sacriface darkmode and use the VSCODE engine there is vs-dark but works on some 
   - Switch your default code engine from `Ace` to `Monaco`
   - (**OPTIONAL**) Switch default editor theme from `Light` to `vs-dark`
 
+***
+
+
 You can also use yours truely Code Editor Settings with the image below!
 
 ![ARedDevv's Editor](https://github.com/ARedDevv/CodeHS-Assignment-Answers/blob/main/images/Screenshot%202023-02-10%2010.38.38%20AM.png?raw=true)
 
 Improve your coding experience with ARedDevv's fine toned code editor.
+
+***
 
 ## FAQ
 
@@ -74,3 +86,5 @@ A. Python is a unit so yeah. CUDA is for JavaScript unit but JS is incompatible 
 Q. Why the frick do you format them for their coding language?
 A. Cause it makes it cleaner to look through then `.txt` files and also gives a cool sidebar tag on github :D.
 
+***
+(Last Updated At 18:30 UTC 8/11/24)
